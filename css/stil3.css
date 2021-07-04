@@ -1,0 +1,38 @@
+/***** RESET *****/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var, b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	/*font-size: 100%;
+	vertical-align: baseline;*/
+	
+}
+html, body {height:100%;}
+body {line-height: 1;}
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after, q:before, q:after {content: '';content: none;}
+table {border-collapse: collapse;border-spacing: 0;} /
+textarea {overflow:auto;}
+
+/***** RESET *****/
+
+.sayfam{background:#000 ;height:435px; padding:95px 20px}
+.ickutu{width:800px ; height:450px ; background:#abc; margin :0px auto 10px auto}
+.icresim{width:400px ;height:400px;float:left}
+.yanyazi{width:380px ;height:380px;float:left ;padding:10px ;color:#bebebe;font:bold 13px tahoma;background:#363636}
+.alt{width:570px;height:64px ;background:#696969;float:left;padding:10px 0 0 230px }
+.baslık{color:#b5b5b5 ;font:bold 30px arial}
+
+
+.alt ul{margin:0 ; padding:0 ;list-style:none}
+.alt ul li{float:left}
+.alt ul li a{width:40px ;height:30px ;text-decoration:underline ;color:#fff ;padding:0 5px 0 5px ;font:bold 13px arial }
+.alt ul li a:hover{color:#fff}
+
+.cubuk{color:#fff }
+.copyright{color:#fff ;font:bold 13px arial}
+.alt copyright{color:#fff ;font:bold 13px arial}
+
